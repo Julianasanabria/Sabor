@@ -149,7 +149,7 @@ const sabores = [
     title:'Plato Especial del Chef',
     description:'Nuestra creación más exclusiva del día.',
     price:'$150.000',
-    image:'../src/img/Especial.png',
+    image:'../src/img/doble.png',
     tipo:'especiales'
   },
   {
